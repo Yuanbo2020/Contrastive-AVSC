@@ -2,7 +2,7 @@
 
 Please interactively view the label for each point in detail.
 
-<iframe src="visualization_of_Ws_We.html" width="850" height="650">...</iframe>
+<iframe src="6_paper_umap_github.html" width="850" height="650">...</iframe>
  
 ### Pretrained models
 
