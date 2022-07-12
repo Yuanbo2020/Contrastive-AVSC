@@ -1,7 +1,17 @@
-Please see here(https://.....) to interactively view the label for each point in detail.
+## Audio-visual scene classification via contrastive event-object alignment and semantic-based fusion
 
-Contrastive-AVSC is uploading...
+Please interactively view the label for each point in detail.
 
-The paper is under review.
+<iframe src="visualization_of_Ws_We.html" width="850" height="650">...</iframe>
+ 
+### Pretrained models
 
-To avoid unnecessary misunderstandings, the complete code will be uploaded after the paper review.
+
+### Contrastive-AVSC is uploading...
+
+# Header 1
+## Header 2
+### Header 3 
+
+
+### Support or Contact 
